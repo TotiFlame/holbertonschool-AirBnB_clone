@@ -79,3 +79,15 @@ ul li {
 ul h2 {
     font-size: 16px;
 }
+
+.polist {
+    margin-left: 3%;
+}
+
+#fchild {
+    margin-top: -8%;
+}
+
+#schild {
+    margin-top: -8%;
+}
