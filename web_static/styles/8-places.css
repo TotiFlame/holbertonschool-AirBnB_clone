@@ -77,3 +77,15 @@ section.places {
     background-image: url(../images/icon_bed.png);
     background-repeat: no-repeat;
 }
+
+.number_bathrooms {
+    width: 100px;
+    height: 100px;
+}
+
+.number_bathrooms div{
+    height: 50px;
+    width: 50px;
+    background-image: url(../images/icon_bath.png);
+    background-repeat: no-repeat;
+}
